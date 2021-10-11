@@ -4,6 +4,8 @@ github可用IP获取工具 golang
 
 > 有关该项目的说明详见 https://del.pub/githubiptool
 
+![预览图](https://cdn.jsdelivr.net/gh/mopo/githubiptool@master/preview.png)
+
 ## 1. 依赖
 * 纯真IP库
 > 下载地址：https://update.cz88.net/soft/setup.zip
